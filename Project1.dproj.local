@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/28 13:52:42.000.900,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/07 22:01:11.000.805,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/08 17:15:31.000.708,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/15 14:14:25.000.022,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/20 10:14:25.056,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/20 10:14:33.683,=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/20 10:17:51.171,C:\Users\daiane.sampaio\Documents\Daiane\projetos\FormTransparente\Transparente.dfm=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/12/20 10:17:51.171,C:\Users\daiane.sampaio\Documents\Daiane\projetos\FormTransparente\Transparente.pas=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/12/20 10:17:57.558,C:\Users\daiane.sampaio\Documents\Daiane\projetos\FormTransparente\Principal.dfm=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/20 10:17:57.558,C:\Users\daiane.sampaio\Documents\Daiane\projetos\FormTransparente\Principal.pas=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/20 10:17:59.789,C:\Users\daiane.sampaio\Documents\Daiane\projetos\FormTransparente\Project1.dproj=C:\Users\daiane.sampaio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

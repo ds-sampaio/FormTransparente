@@ -1,0 +1,38 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  AlphaBlend = True
+  AlphaBlendValue = 240
+  Caption = 'Form2'
+  ClientHeight = 393
+  ClientWidth = 524
+  Color = clWhite
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 213
+    Top = 156
+    Width = 89
+    Height = 23
+    Caption = 'Aguarde...'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 189
+    Top = 196
+    Width = 138
+    Height = 13
+    Caption = 'Configura'#231#227'o em andamento'
+  end
+end
